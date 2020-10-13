@@ -1,0 +1,1 @@
+This  Project is about Python text file reading/writing, writing user defined functions/ lambda functions, string and numeric data operations, wrangling, using list creation, split, filter, comparing lists, writing lambda functions, using lambda in list filtering, 
